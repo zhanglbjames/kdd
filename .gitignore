@@ -1,0 +1,6 @@
+# ignore context
+bin/
+.classpath
+.project
+.settings/
+
